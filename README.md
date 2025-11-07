@@ -1,6 +1,6 @@
 # Hardware Center - Paint E-Commerce App
 
-A modern, Amazon-style e-commerce application for selling paints and painting supplies. Built with React frontend and Node.js/Express backend.
+A modern,e-commerce application for selling paints and painting supplies. Built with React frontend and Node.js/Express backend.
 
 ## Features
 
@@ -180,4 +180,5 @@ This project is open source and available for personal use.
 ## Support
 
 For issues or questions, please check the code or reach out for support.
+
 
